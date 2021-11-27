@@ -1,5 +1,5 @@
 const LOCAL = "http://localhost:8083/";
-const SERVER = "http://129.151.121.62:8083/";
+const SERVER = "http://xxx.xxx.xxx.xxx:8083/";
 
 
 function consultarUsuarios(){
